@@ -2,6 +2,8 @@
 
 ### Dashboard Link: [https://app.powerbi.com/links/F4UVC2uSk9?ctid=84c31ca0-ac3b-4eae-ad11-519d80233e6f&pbi_source=linkShare]
 
+### Dasboard Snapshot: [![Image](https://github.com/user-attachments/assets/56205721-c173-4156-95fa-e37b7734e36e)]
+
 # Problem Statement
 This interactive Power BI dashboard provides a comprehensive eCommerce sales analysis, enabling businesses to track sales performance, identify trends, and optimize their strategies. It provides insights into monthly sales trends, quarterly performance, sales by cities and states, total revenue, profit, quantity sold, and customer behaviour.
 
